@@ -1,0 +1,9 @@
+name='ajith'
+name2="rishitha"
+name3='''sonu'''
+print(name,name2,name3)
+age=23
+old=False
+print(type(old))
+print(type(age))
+print(type(name))
